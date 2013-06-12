@@ -1,0 +1,12 @@
+{
+  "name": "webmaker-sso",
+  "version": "0.0.0",
+  "description": "repo for include.js ",
+  "main": "include.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbuck/node-webmaker-sso.git"
+  },
+  "author": "Jon Buckley <jon@jbuckley.ca>",
+  "license": "BSD",
+}
